@@ -136,7 +136,7 @@ public class Main {
             System.out.println("Выиграют джедаи2");
         } else if (jediObiVan && sithDartMol) {
             System.out.println("Выигрывают джедаи3");
-        } else { System.out.println("Выигрывают ситхи4");}
-
+        } else { System.out.println("Выигрывают ситхи4");
+        }
     }
 }
